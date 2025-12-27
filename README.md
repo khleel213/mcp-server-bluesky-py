@@ -59,7 +59,7 @@
     "bluesky": {
       "command": "python",
       "args": [
-        "c:/Users/your_name/path/to/mcp-server-bluesky-py/bluesky_mcp.py"
+        "path/to/mcp-server-bluesky-py/bluesky_mcp.py"
       ],
       "env": {
         "BLUESKY_HANDLE": "your_handle.bsky.social",
@@ -74,7 +74,7 @@
 > **特别提示 (Windows / Antigravity 用户)**：
 > 如果你的环境是 **Antigravity** 或某些对 `stdin` 缓冲处理有特殊要求的 Windows 客户端，建议使用本项目提供的 `mcp_wrapper.py` 作为入口，以确保最稳固的连接：
 > ```json
-> "args": ["c:/Users/your_name/path/to/mcp-server-bluesky-py/mcp_wrapper.py"]
+> "args": ["path/to/mcp-server-bluesky-py/mcp_wrapper.py"]
 > ```
 > `mcp_wrapper.py` 强制将 stdio 设为二进制模式，是解决 Windows 下通信许多莫名其妙 Bug 的万能药。
 
