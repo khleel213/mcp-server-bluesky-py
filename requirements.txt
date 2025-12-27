@@ -1,0 +1,4 @@
+mcp
+atproto
+pydantic
+python-dotenv
